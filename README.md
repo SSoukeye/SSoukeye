@@ -7,3 +7,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugkfgwtsvqn7ywo37fsxzesd24&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=e43b11&bar_color_cover=false">
   </a>
 </p>
+
+<a href="https://apeshit.straw.page/" rel="nofollow">straw</a>
